@@ -10,14 +10,14 @@
     max-width: 1100px;
     margin: auto;
     padding: 15px;
-    border: 2px solid red;
+    
 }
 
 header {
     max-width: 1400px;
     margin: auto;
     background-image: url(./images/header_image.jpg);
-    border: 2px solid red;
+    
 }
 
 header .header_nav {
@@ -85,7 +85,7 @@ header .header_main span {
 .services {
     max-width: 1400px;
     margin: auto;
-    border: 2px solid red;
+    
 }
 
 .services .services_nav {
@@ -125,7 +125,7 @@ header .header_main span {
 .about {
     max-width: 1400px;
     margin: auto;
-    border: 2px solid red;
+   
 }
 
 .about .about_header {
@@ -159,7 +159,7 @@ header .header_main span {
 .works {
     max-width: 1400px;
     margin: auto;
-    border: 2px solid red;
+   
 }
 
 .works .works_header {
@@ -217,7 +217,7 @@ header .header_main span {
     margin: auto;
     background-image: url(./images/YOUR_PROJECT_img.png);
     margin-top: 70px;
-    border: 2px solid red;
+    
 }
 
 .YOUR_PROJECT .YOUR_PROJECT_main {
@@ -246,7 +246,7 @@ header .header_main span {
     max-width: 1400px;
     margin: auto;
     margin-top: 100px;
-    border: 2px solid red;
+    
 }
 
 .malik_media .malik_media_header {
@@ -282,7 +282,7 @@ header .header_main span {
 footer {
     max-width: 1400px;
     margin: auto;
-    border: 2px solid red;
+   
     margin-top: 60px;
 }
 
